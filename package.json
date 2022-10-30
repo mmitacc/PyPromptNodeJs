@@ -1,0 +1,21 @@
+{
+  "name": "pyprompnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "_matriz.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon master-prompt.js"
+  },
+  "keywords": [
+    "Node",
+    "Modulización",
+    "Filosofía Unix"
+  ],
+  "author": "mmitacc",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.20",
+    "request": "^2.88.2"
+  }
+}
